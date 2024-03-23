@@ -1,14 +1,13 @@
 # VideoActionClip
 行为识别分析
-<p align="center">
-1:数据集 https://github.com/facebookresearch/SlowFast/blob/main/slowfast/datasets/DATASET.md
 
-</p>
 
 <p align="center">
 1:数据集 https://github.com/facebookresearch/SlowFast/blob/main/slowfast/datasets/DATASET.md
 
 </p>
+
+<p align="center">
 
 @article{damonlpsg2023videollama,
   author = {Zhang, Hang and Li, Xin and Bing, Lidong},
@@ -26,3 +25,4 @@
   howpublished = {\url{https://github.com/facebookresearch/slowfast}},
   year =         {2020}
 }
+<p>
