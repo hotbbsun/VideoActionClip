@@ -1,8 +1,8 @@
 # VideoActionClip
 行为识别分析
 
-<p align="center">
-使用
+<p align="left">
+使用AVA数据集，slowfast自动打标签
 </p>
 <p align="center">
 1:数据集 https://github.com/facebookresearch/SlowFast/blob/main/slowfast/datasets/DATASET.md
